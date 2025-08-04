@@ -10,9 +10,9 @@
 
 ## 💼 Skills
 
-- 💻 Languages: Python, Java, JavaScript, C  
-- 🤖 AI/ML: Machine Learning, Deep Learning, Data Science  
-- 🌐 Web: HTML, CSS, JavaScript  
+- 💻 Languages: Python, Java, HTML, C  
+- 🤖 AI/ML: Machine Learning, Deep Learning, Data Science   
+- 🧠 CS Fundamentals: Operating Systems (OS), Computer Networks (CN), Design and Analysis of Algorithms (DAA)  
 - 🔧 Tools: Git, GitHub, VS Code  
 
 ---
@@ -45,20 +45,4 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 - 📧 Email: [laharikamari@gmail.com](mailto:laharikamari@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
-- 💻 GitHub: [github.com/laharika0127](https://github.com/laharika0127)  
-- 🧮 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
-- 📄 [Resume (Google Drive)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=tokyonight&border_radius=10" width="60%" />
-</p>
-
----
-
-<p align="center">
-  ⭐ I’m open to SDE / ML / Web Dev internships & job opportunities!
-</p>
+- 💻 GitHub: [github.com/la]()
