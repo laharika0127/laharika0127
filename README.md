@@ -7,14 +7,14 @@ I enjoy learning new technologies and building real-world projects that solve pr
 
 ## 🌐 Portfolio Website
 
-🎯 [View My Live Portfolio](https://laharika0127.github.io/portfolio)  
+🎯 [View My Live Portfolio](https://github.com/laharika0127/Laharika-s-portfolio)  
 A personal website showcasing my projects, skills, and contact details — built using HTML, CSS, and JavaScript.
 
 ---
 
 ## 📘 Introduction Repository
 
-📄 [Visit Introduction Repo](https://github.com/laharika0127/introduction)  
+📄 [Visit Introduction Repo](https://github.com/laharika0127/laharikareddy)  
 This repository provides a short overview about me — including my background, interests, and goals in tech.
 
 ---
