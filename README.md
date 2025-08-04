@@ -43,7 +43,6 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=radical" alt="Laharika's GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laharika0127&theme=radical" alt="Laharika's GitHub Streaks" height="180" />
 </p>
 
 ---
