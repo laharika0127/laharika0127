@@ -33,9 +33,9 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 - 🔗 [**Live Portfolio Website**](https://laharika0127.github.io/Laharika-s-portfolio)  
   A personal website to showcase my projects, skills, and contact details.  
-  📁 [View Portfolio Repository](https://github.com/laharika0127/Laharika-s-portfolio)
+  
 
-- 📘 [**Introduction Repository**](https://github.com/laharika0127/laharikareddy)  
+- 📘 [**Introduction Repository**](https://laharika0127.github.io/laharikareddy/)  
   A brief intro about me — background, interests, and future goals.
 
 ---
