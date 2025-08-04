@@ -31,19 +31,12 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ## 🌐 Portfolio & Introduction
 
-- 🔗 [**View My Live Portfolio Website**](https://laharika0127.github.io/portfolio)  
-  A personal website to showcase my projects, skills, and contact details.
+- 🔗 [**Live Portfolio Website**](https://laharika0127.github.io/Laharika-s-portfolio)  
+  A personal website to showcase my projects, skills, and contact details.  
+  📁 [View Portfolio Repository](https://github.com/laharika0127/Laharika-s-portfolio)
 
-- 📘 [**Introduction Repository**](https://github.com/laharika0127/introduction)  
+- 📘 [**Introduction Repository**](https://github.com/laharika0127/laharikareddy)  
   A brief intro about me — background, interests, and future goals.
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=radical" alt="Laharika's GitHub Stats" height="180" />
-</p>
 
 ---
 
@@ -54,6 +47,15 @@ A secure, image-based graphical password authentication system to enhance tradit
 - 💻 GitHub: [github.com/laharika0127](https://github.com/laharika0127)  
 - 🧮 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
 - 📄 [Resume (Drive link)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharika0127&layout=compact&theme=radical" alt="Top Languages" width="47%" />
+</p>
 
 ---
 
