@@ -60,17 +60,12 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ---
 
-## 🧠 Contribution Snake
+## 🐍 Contribution Snake
 
-<details>
-  <summary>Click to view my contribution snake animation</summary>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake-dark.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake.svg" />
-  </picture>
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake.svg" />
+</picture>
 
 ---
 
