@@ -23,12 +23,12 @@
 ### 🧠 Twitter Bot Detection  
 A machine learning model that identifies bot accounts on Twitter using behavior patterns and metadata analysis.  
 **Tech Stack:** Python, Pandas, Scikit-learn  
-🔗 *GitHub link coming soon*
+🔗 [**View on GitHub**](https://github.com/laharika0127/Twitter-Bot-Detection)
 
 ### 🔐 Graphical Password Authentication System  
 A secure, image-based graphical password authentication system to enhance traditional login methods.  
 **Tech Stack:** Python, Tkinter  
-🔗 *GitHub link coming soon*
+🔗 [**View on GitHub**](https://github.com/laharika0127/Graphical-Password-System)
 
 ---
 
