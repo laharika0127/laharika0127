@@ -31,11 +31,11 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ## 🌐 Portfolio & Introduction
 
-- 🔗 [**Live Portfolio Website**](https://laharika0127.github.io/Laharika-s-portfolio)  
+- 🔗 [**Portfolio**](https://laharika0127.github.io/Laharika-s-portfolio)  
   A personal website to showcase my projects, skills, and contact details.  
   
 
-- 📘 [**Introduction Repository**](https://laharika0127.github.io/laharikareddy/)  
+- 📘 [**Introduction**](https://laharika0127.github.io/laharikareddy/)  
   A brief intro about me — background, interests, and future goals.
 
 ---
