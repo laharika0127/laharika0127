@@ -54,8 +54,7 @@ A secure, image-based graphical password authentication system to enhance tradit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laharika0127&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laharika0127&show_icons=true&theme=tokyonight&border_radius=10" width="60%" />
 </p>
 
 ---
@@ -63,4 +62,3 @@ A secure, image-based graphical password authentication system to enhance tradit
 <p align="center">
   ⭐ I’m open to SDE / ML / Web Dev internships & job opportunities!
 </p>
-
