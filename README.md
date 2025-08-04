@@ -10,10 +10,11 @@
 
 ## 💼 Skills
 
-- 💻 Languages: Python, Java, HTML, C, Basics of R 
-- 🤖 AI/ML: Machine Learning, Data Science   
-- 🧠 CS Fundamentals: Operating Systems (OS), Computer Networks (CN), Design and Analysis of Algorithms (DAA)  
-- 🔧 Tools: Git, GitHub, VS Code  
+- 💻 **Languages:** Python, Java, JavaScript, C  
+- 🤖 **AI/ML:** Machine Learning, Deep Learning, Data Science  
+- 🌐 **Web:** HTML, CSS, JavaScript  
+- 🧠 **CS Fundamentals:** Operating Systems (OS), Computer Networks (CN), Design and Analysis of Algorithms (DAA)  
+- 🔧 **Tools:** Git, GitHub, VS Code  
 
 ---
 
@@ -41,12 +42,12 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ---
 
-## 📫 Reach Me
+## 📢 Reach Me
 
 - 📧 Email: [laharikamari@gmail.com](mailto:laharikamari@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
 - 💻 GitHub: [github.com/laharika0127](https://github.com/laharika0127)  
-- 🧮 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
+- 🧶 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
 - 📄 [Resume (Google Drive)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
 
 ---
@@ -59,11 +60,17 @@ A secure, image-based graphical password authentication system to enhance tradit
 
 ---
 
-## 🧠 Contribution Graph
+## 🧠 Contribution Snake
 
-<p align="center">
-  <img src="https://github-contribution-graph.ezratamayo.dev/api?username=laharika0127&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="80%" />
-</p>
+<details>
+  <summary>Click to view my contribution snake animation</summary>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake-dark.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/laharika0127/laharika0127/output/github-snake.svg" />
+  </picture>
+
+</details>
 
 ---
 
