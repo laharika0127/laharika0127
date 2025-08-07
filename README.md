@@ -47,7 +47,6 @@ A secure, image-based graphical password authentication system to enhance tradit
 - 📧 Email: [laharikamari@gmail.com](mailto:laharikamari@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/laharikamarri](https://www.linkedin.com/in/laharikamarri/)  
 - 💻 GitHub: [github.com/laharika0127](https://github.com/laharika0127)  
-- 🧶 LeetCode: [leetcode.com/u/laharika27](https://leetcode.com/u/laharika27)  
 - 📄 [Resume (Google Drive)](https://drive.google.com/file/d/16Vh_1Utb96JZwlknwgifKvluuLgx3Gg7/view)
 
 ---
