@@ -10,9 +10,8 @@
 
 ## 💼 Skills
 
-- 💻 **Languages:** Python, Java, JavaScript, C  
-- 🤖 **AI/ML:** Machine Learning, Deep Learning, Data Science  
-- 🌐 **Web:** HTML, CSS, JavaScript  
+- 💻 **Languages:** Python, Java, C, HTML
+- 🤖 **AI/ML:** Machine Learning, Deep Learning, Data Science   
 - 🧠 **CS Fundamentals:** Operating Systems (OS), Computer Networks (CN), Design and Analysis of Algorithms (DAA)  
 - 🔧 **Tools:** Git, GitHub, VS Code  
 
